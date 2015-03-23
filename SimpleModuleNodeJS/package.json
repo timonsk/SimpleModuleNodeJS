@@ -1,0 +1,10 @@
+{
+  "name": "SimpleModuleNodeJS",
+  "version": "0.0.0",
+  "description": "SimpleModuleNodeJS",
+  "main": "app.js",
+  "author": {
+    "name": "timon",
+    "email": ""
+  }
+}
